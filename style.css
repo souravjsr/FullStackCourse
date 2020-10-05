@@ -15,3 +15,10 @@ body{
     color: steelblue;
     font-size: 40px;
 }
+ol li {
+    color: yellow;
+    font-style: italic;
+}
+ol > li {
+    color: yellowgreen;
+}
